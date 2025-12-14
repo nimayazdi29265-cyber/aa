@@ -1,0 +1,5 @@
+{
+  "name": "Macula Vision Tests",
+  "description": "A comprehensive suite of vision tests including Amsler Grid, PHP, SDH, M-Chart, and more for monitoring macular health.",
+  "requestFramePermissions": []
+}
